@@ -7,6 +7,6 @@
 
 • Tuned all hyper-parameters via cross-validation and analysed the final performance RMSE & R-squared metrics.
 
-My final report is also visible under "ML1 REPORT.pdf"
+My final report is visible under "ML1 REPORT.pdf"
 
 Final grade: First class (94%)
